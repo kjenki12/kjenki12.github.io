@@ -1,4 +1,4 @@
-## Kristina Jenkins
+## Kristina Jenkins GitHub
 
 This repository showcases code _snippets_ for various functions.
 
