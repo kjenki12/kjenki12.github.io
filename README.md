@@ -1,8 +1,10 @@
 ## Kristina Jenkins GitHub
 
-This repository showcases code _snippets_ for various functions.
+This site accesses my personal blog that showcases my GitHub Repository. The 
+repository contains minor code _snippets_ for various functions.
 
-Including: 
+Functions Include:
+
 - Email validation
 - Bootstrap Templates
 - Web Page Navigation
