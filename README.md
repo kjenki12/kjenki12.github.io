@@ -1,6 +1,6 @@
 ## Kristina Jenkins GitHub
 
-This site accesses my personal blog that showcases my GitHub Repository. The 
+This site acts as my personal blog that showcases my GitHub Repository. The 
 repository contains minor code _snippets_ for various functions.
 
 Functions Include:
