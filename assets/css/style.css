@@ -1,7 +1,8 @@
-//---
-//---
+/*
+---
+---
 
-/*@import "{{ site.theme }}";*/
+@import "{{ site.theme }}";*/
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
