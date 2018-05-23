@@ -6,8 +6,8 @@ Links to my repositories contain minor code _snippets_ for various functions fou
 
 Functions Include:
 
-- Email validation
-- Responsive Bootstrap Templates
+- Email Validation
+- Bootstrap Components
 - Web Page Navigation
 
 and more....
