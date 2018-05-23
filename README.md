@@ -2,7 +2,7 @@
 
 This website acts as my online portfolio that showcases my web and graphic design skills.
 
-Links on my repository contain minor code _snippets_ for various functions found throughout the website.
+Links to my repositories contain minor code _snippets_ for various functions found throughout the website.
 
 Functions Include:
 
