@@ -1,10 +1,13 @@
 ## Kristina Jenkins GitHub
 
-This site acts as my personal blog that showcases my GitHub Repository. The 
-repository contains minor code _snippets_ for various functions.
+This site acts as my online portfolio that showcases my web and graphic design skills.
+
+Links on my repository contain minor code _snippets_ for various functions found throughout the website.
 
 Functions Include:
 
 - Email validation
-- Bootstrap Templates
+- Responsive Bootstrap Templates
 - Web Page Navigation
+
+and more....
